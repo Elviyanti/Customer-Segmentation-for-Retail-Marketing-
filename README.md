@@ -55,8 +55,7 @@ K-Means dengan PCA terbukti memberikan hasil clustering yang paling stabil, jela
 Dataset yang digunakan adalah **Online Retail Dataset** dari Kaggle, berisi data transaksi retail yang digunakan untuk eksplorasi data, pembersihan data, serta proses segmentasi pelanggan.
 
 🔗 [Online Retail Dataset — Kaggle](https://www.kaggle.com/datasets/vijayuv/onlineretail)
-1. Masuk ke link Demo
-2. Masukkan CSV rfm_clustered (untuk melihat dashbaord visualisasinya
+
 
 ---
 
@@ -65,6 +64,8 @@ Dataset yang digunakan adalah **Online Retail Dataset** dari Kaggle, berisi data
 Hasil segmentasi diimplementasikan dalam bentuk dashboard interaktif berbasis Streamlit, menyajikan executive summary, cluster profiling, RFM distribution, snake plot analysis, visualisasi 3D & PCA view, hingga fitur filter & export data.
 
 🔗 **Live Demo:** [customer-segmentation-retail-dashboard.streamlit.app](https://customer-segmentation-retail-dashboard.streamlit.app/)
+1. Masuk ke link Demo
+2. Masukkan CSV rfm_clustered (untuk melihat dashbaord visualisasinya
 
 ---
 
