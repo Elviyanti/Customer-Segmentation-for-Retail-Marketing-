@@ -55,6 +55,8 @@ K-Means dengan PCA terbukti memberikan hasil clustering yang paling stabil, jela
 Dataset yang digunakan adalah **Online Retail Dataset** dari Kaggle, berisi data transaksi retail yang digunakan untuk eksplorasi data, pembersihan data, serta proses segmentasi pelanggan.
 
 🔗 [Online Retail Dataset — Kaggle](https://www.kaggle.com/datasets/vijayuv/onlineretail)
+1. Masuk ke link Demo
+2. Masukkan CSV rfm_clustered (untuk melihat dashbaord visualisasinya
 
 ---
 
@@ -92,22 +94,6 @@ Capstone Project **A25-CS279** — Machine Learning Path
 ```
 
 > Sesuaikan struktur folder di atas dengan struktur aktual pada repository ini.
-
----
-
-## ⚙️ Cara Menjalankan Proyek
-
-```bash
-# 1. Clone repository
-git clone https://github.com/Elviyanti/Customer-Segmentation-for-Retail-Marketing-.git
-cd Customer-Segmentation-for-Retail-Marketing-
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Jalankan dashboard Streamlit
-streamlit run app.py
-```
 
 ---
 
