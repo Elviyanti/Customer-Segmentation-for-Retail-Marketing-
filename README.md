@@ -35,7 +35,7 @@ Setiap segmen dilengkapi persona singkat dan rekomendasi strategi pemasaran (pro
 7. **Deployment** — dashboard interaktif menggunakan Streamlit untuk visualisasi hasil segmentasi.
 
 ### Hasil Evaluasi Model
-K-Means + PCA (n_components = 2) = **0.6702588217414754** 
+K-Means + PCA (n_components = 2) = **0.6703** 
 K-Means dengan PCA terbukti memberikan hasil clustering yang paling stabil, jelas, dan mudah diinterpretasikan dibandingkan model pembanding lainnya.
 
 ---
@@ -80,7 +80,7 @@ Capstone Project **A25-CS279** — Machine Learning Path
 
 ---
 
-## 📁 Struktur Repository
+## Struktur Repository
 
 ```
 .
@@ -111,7 +111,7 @@ streamlit run app.py
 
 ---
 
-## 📈 Insight & Rekomendasi Bisnis
+## Insight & Rekomendasi Bisnis
 
 - **Loyal Customers** → pertahankan dengan program loyalitas dan penawaran eksklusif.
 - **Potential Customers** → dorong frekuensi transaksi melalui promosi yang dipersonalisasi dan cross-selling.
@@ -121,12 +121,12 @@ Pendekatan ini memungkinkan strategi pemasaran yang lebih tepat sasaran dibandin
 
 ---
 
-## 🙏 Acknowledgement
+## Acknowledgement
 
 Proyek ini merupakan bagian dari program **Asah** yang diselenggarakan oleh **Dicoding** bekerja sama dengan **Accenture**.
 
 ---
 
-## 📜 Lisensi
+## Lisensi
 
 Proyek ini dibuat untuk keperluan pembelajaran dalam program Capstone Asah x Dicoding x Accenture.
